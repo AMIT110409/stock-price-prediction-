@@ -1,2 +1,11 @@
 # stock-price-prediction-
 About  Average Prediction of stocks  price . Using LSTM Recurrent Neural Network
+Stock price prediction models are used in machine learning to forecast the future prices of stocks or other financial instruments. These models use historical data, such as stock prices, trading volumes, and other relevant financial indicators, to make predictions about future price movements. There are various approaches and techniques that can be used to build stock price prediction models, including:
+
+Machine learning algorithms: Machine learning algorithms, such as linear regression, support vector machines (SVM), decision trees, random forests, and neural networks, can also be used to build stock price prediction models. These models learn from historical data and can capture complex patterns and relationships in the data. Feature engineering, which involves selecting and transforming relevant features from the historical data, is an important step in building machine learning-based stock price prediction models.
+
+Sentiment analysis: Sentiment analysis involves analyzing news, social media, and other textual data to gauge the sentiment or opinion about a particular stock or company.
+
+Technical indicators: Technical indicators are commonly used in stock price prediction models. These indicators are based on historical stock price data and include metrics such as moving averages, relative strength index (RSI), and Bollinger Bands, among others. These indicators can be used as input features in machine learning models to capture technical patterns or trends in stock prices.
+
+It's important to note that stock price prediction is inherently challenging and involves risks. Many factors, such as market conditions, economic events, and external factors, can impact stock prices, making accurate predictions difficult. It's always advisable to use stock price prediction models as one tool among many for making informed investment decisions, and to exercise caution when making financial decisions based on such models. Additionally, thorough backtesting and validation using historical data are essential to evaluate the accuracy and reliability of any stock price prediction model.
